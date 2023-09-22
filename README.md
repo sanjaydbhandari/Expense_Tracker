@@ -24,41 +24,28 @@ This project showcases my proficiency in Java development and my ability to crea
 <h5>index.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/img1.png">
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/img2.png">
-<br>
-<br>
+
 <h5>register.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/registeration.png">
-<br>
-<br>
+
 <h5>login.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/signin.png">
-<br>
-<br>
+
 <h5>After Login -> login.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/afterSignin.png">
-<br>
-<br>
-<h5>addExpense.jsp</h5>
-<img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/afterSignin.png">
-<br>
-<br>
+
 <h5>addExpense.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/add_expense.png">
-<br>
-<br>
+
 <h5>viewExpense.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/view_exp.png">
-<br>
-<br>
+
 <h5>editExpense.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/edit_exp.png">
-<br>
-<br>
+
 <h5>delete Expense -> viewExpense.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/delete_exp.png">
-<br>
-<br>
+
 <h5>Logout-> login.jsp</h5>
 <img src="https://github.com/sanjaybhandari-github/Expense_Tracker/blob/main/_Project_ScreenShots/after_logout.png">
-<br>
-<br>
+
